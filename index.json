@@ -1,0 +1,15 @@
+{
+    "plugins": [
+      {
+        "id": "1-my-grafana-plugin",
+        "type": "panel",
+        "url": "https://github.com/ivanbevivino/test-grafana/my-grafana-plugin",
+        "versions": [
+          {
+            "version": "0.0.1"
+          }
+        ]
+      }
+    ]
+  }
+
